@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/IMG_20210426_131320.jpg
+    background_image: images/IMG_20210426_131315.jpg
     background_image_opacity: 65
     content: |
       # The Zodiac Florist
